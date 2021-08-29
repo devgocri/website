@@ -1,9 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-	background: url("https://downloads.videezy.com/system/protected/files/000/008/153/Moving_Floor_V1_01.mp4");
-	background-repeat: no-repeat;
-	background-size: auto;
+	background-colour: #444751;
 	font-family: arial;
 	box-sizing: border-box;
 }
